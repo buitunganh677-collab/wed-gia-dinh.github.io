@@ -1,0 +1,112 @@
+.box{
+    display:flex;
+}
+.box img {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px hsla(341, 0%, 77%, 1),
+                -10px -10px 20px hsla(341, 0%, 21%, 1);
+}
+.box img.ảnh-3{
+    height:350px;
+}
+.ảnh-1:active {
+    transform: scale(1.4);
+    transition: all 0.5s ease;
+}
+.ảnh-2:active {
+    transform: scale(1.4);
+    transition: all 0.5s ease;
+}
+.ảnh-3:active {
+    transform: scale(1.4);
+    transition: all 0.5s ease;
+}
+.ảnh-4:active {
+    transform: scale(1.4);
+    transition: all 0.5s ease;
+}
+.ảnh-5:active {
+    transform: scale(1.4);
+    transition: all 0.5s ease;
+}
+.ảnh-6:active {
+    transform: scale(1.4);
+    transition: all 0.5s ease;
+}
+
+.ảnh-7:active {
+    transform: scale(1.4);
+    transition: all 0.5s ease;
+}
+.ảnh-8:active {
+    transform: scale(1.4);
+    transition: all 0.5s ease;
+}
+.ảnh-9:active {
+    transform: scale(1.4);
+    transition: all 0.5s ease;
+}
+.ảnh-8:active {
+    transform: scale(1.4);
+    transition: all 0.5s ease;
+}
+.ảnh-9:active {
+    transform: scale(1.4);
+    transition: all 0.5s ease;
+}
+.ảnh-10:active {
+    transform: scale(1.4);
+    transition: all 0.5s ease;
+}
+.ảnh-11:active {
+    transform: scale(1.4);
+    transition: all 0.5s ease;
+}
+.ảnh-12:active {
+    transform: scale(1.4);
+    transition: all 0.5s ease;
+}
+
+.ảnh-11:active {
+    transform: scale(1.4);
+    transition: all 0.5s ease;
+}
+.ảnh-12:active {
+    transform: scale(1.4);
+    transition: all 0.5s ease;
+}
+
+
+.box-2 {
+    display:flex;
+}
+.box-2 img{
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px hsla(341, 0%, 77%, 1),
+                -10px -10px 20px hsla(341, 0%, 21%, 1);
+}
+.chữ-mô-tả{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+
+    background: #121FCF;
+    background: linear-gradient(to right, #0011ff 0%, #007CFF 50%, #9e02ff 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+body{
+    background: #0777FF;
+    background: linear-gradient(to bottom, #0777FF 0%, #0074FF 9%, #005AFF 24%, #3F00FF 42%, #A500FF 67%, #6707CF 100%);
+
+}
